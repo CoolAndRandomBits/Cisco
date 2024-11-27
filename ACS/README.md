@@ -1,0 +1,1 @@
+Simple (and insecure) script for creating a network object in Cisco ACS.  Necessary to authenticate to the device using ACS
